@@ -17,3 +17,7 @@ He has participated in several national projects lead by Prof. Coromoto León, l
 
 He has directed hundreds of bachelor degree final projects,  tens of Master thesis,  and seven doctoral theses. One of them has received the extraordinary doctorate prize in Science of the ULL. At this stage of his research, he has published more than twenty articles in journals and more than fifty documents in the proceedings of international conferences. In the transfer section see the many contributions in CPAN,  the software tools developed as a result of several  projects like MaLLBa, METCO and SCHOOLTHY;  all distributed under a GNU public license. He is an advocate of GitHub Education Technologies and has several related articles and works on Computer Science Education.
 
+
+## Links
+
+* [Page at E-guia Universidad de La Laguna](https://www.ull.es/apps/guias/guias/view_teacher_niu/745/(%3FPcrguezl.*)/)
