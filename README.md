@@ -22,6 +22,7 @@ He has directed hundreds of [bachelor degree final projects](https://riull.ull.e
 
 * [Page at E-guia Universidad de La Laguna](https://www.ull.es/apps/guias/guias/view_teacher_niu/745/(%3FPcrguezl.*)/)
 * [Page at GitHub Education Community](https://education.github.community/u/crguezl/summary)
+* [Publications at RIULL ](https://riull.ull.es/xmlui/browse?authority=1585&type=author)
 * [npm](https://www.npmjs.com/~crguezl)
 * [meta::cpan](https://metacpan.org/author/CASIANO)
     - [Eyapp](https://metacpan.org/pod/distribution/Parse-Eyapp/lib/Parse/Eyapp/eyapp) (currently maintained by [William N. Braswell, ](https://metacpan.org/author/WBRASWELL))
