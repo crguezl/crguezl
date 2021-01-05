@@ -22,6 +22,7 @@ He has directed hundreds of [bachelor degree final projects](https://riull.ull.e
 
 * [Page at E-guia Universidad de La Laguna](https://www.ull.es/apps/guias/guias/view_teacher_niu/745/(%3FPcrguezl.*)/)
 * [Page at GitHub Education Community](https://education.github.community/u/crguezl/summary)
+* [npm](https://www.npmjs.com/~crguezl)
 * [Orcid.org](https://orcid.org/0000-0002-4908-8643)
 * [Scholar.google.es](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
 * [Scopus](https://www-scopus-com.accedys2.bbtk.ull.es/authid/detail.uri?authorId=57192126544)
