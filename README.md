@@ -1,6 +1,10 @@
 ## Position
 
-University Professor at Universidad de La Laguna
+University Professor at Universidad de La Laguna 
+
+### Area
+
+Lenguajes y Sistemas Informáticos (Languages and Computer Systems)
 
 ## Researcher IDs
 
