@@ -2,9 +2,12 @@
 
 University Professor at Universidad de La Laguna 
 
-### Area
+### Area (Spanish Ministry)
 
-Lenguajes y Sistemas Informáticos (Languages and Computer Systems)
+In Spain, permanent university teaching staff must be assigned to one of the branches of knowledge established by the ministry in charge of Universities. (See for example [this catalog](https://www.ub.edu/portal/documents/34829/459928/areas_conocimiento.pdf/db1d283f-1f49-4141-a51e-80a47bcb1b1a) at UB).
+
+* Lenguajes y Sistemas Informáticos (Languages and Computer Systems)
+* Area Code: 570 
 
 ## Researcher IDs
 
