@@ -39,6 +39,6 @@ He has directed hundreds of [bachelor degree final projects](https://riull.ull.e
 
 
 
-## Stats
+## (Public) Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crguezl&show_icons=true&locale=en" alt="crguezl stats" /></p>
