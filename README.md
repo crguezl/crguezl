@@ -36,3 +36,9 @@ He has directed hundreds of [bachelor degree final projects](https://riull.ull.e
 * [Orcid.org](https://orcid.org/0000-0002-4908-8643)
 * [Scholar.google.es](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
 * [Scopus](https://www-scopus-com.accedys2.bbtk.ull.es/authid/detail.uri?authorId=57192126544)
+
+
+
+## Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crguezl&show_icons=true&locale=en" alt="crguezl stats" /></p>
